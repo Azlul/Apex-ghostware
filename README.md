@@ -7,4 +7,4 @@ Mouse 5 - Aimbot , currently no esp keybind just always on.
 # Known Bugs and solutions
 Only current bug is esp for some users, Ghostware uses the xbox gamebar overlay so make sure that is installed(install the xbox app)
 # Detections
-Currently no detections as of writing this 6/2/24 (will be updated weekly)
+Currently no detections as of writing this 6/7/24 (will be updated weekly)
