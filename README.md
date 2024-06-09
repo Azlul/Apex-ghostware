@@ -1,6 +1,7 @@
 # GhostWare
 Ghostware is a Esp and aimbot cheat designed purely to bypass Easy Anti-Cheat.
 Current supported systems are windows 10/11
+https://discord.gg/ApexGhostWare
 # KeyBinds
 Mouse 5 - Aimbot , currently no esp keybind just always on.
 # Disable Windows defender if download fails
